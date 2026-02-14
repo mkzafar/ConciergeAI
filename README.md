@@ -1,2 +1,2 @@
 ## Demo
-![Demo](AI-Agent%20Workflow.gif)
+![Demo](.demo/AI-Agent%20Workflow.gif)
