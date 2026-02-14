@@ -1,3 +1,3 @@
 ## Demo
-![Demo]("C:\Users\khuza\OneDrive\Desktop\ai-receptionist\demo\AI-Agent Workflow.gif")
+![Demo](AI-Agent Workflow.gif)
 
